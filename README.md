@@ -20,4 +20,4 @@
 >_**Warranty**_
 >
 ------
-###### THIS DOCUMENT IS MADE WITH &copy;MARKDOWN
+###### THIS DOCUMENT IS MADE WITH &copy;MARKDOWN.
