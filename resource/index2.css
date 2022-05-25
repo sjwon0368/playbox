@@ -4,4 +4,26 @@ body, html {
 	margin: 0;
 	padding: 0;
 	background: #FFFFFF;
+	font-family: sans-serif;
+}
+.app__menuBar .app__menuItem:first-child {
+	color: #F29900;
+	text-decration: none;
+	font-weight: bold;
+	position: absolute;
+	left: 15%;
+}
+.app__menuBar .app__menuItem:nth-child(2) {
+	color: #F29900;
+	text-decration: none;
+	font-weight: bold;
+	position: absolute;
+	left: 30%;
+}
+.app__menuBar .app__menuItem:last-child {
+	color: #F29900;
+	text-decration: none;
+	font-weight: bold;
+	position: absolute;
+	left: 45%;
 }
