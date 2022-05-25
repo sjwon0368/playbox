@@ -1,4 +1,4 @@
-## Github Repository
+# Github Repository
 ###### **Licensed under [GPL-3.0](https://github.com/sjwon0368/playbox/blob/main/LICENSE).**
 ------
 > ### Allowed actions for this repo:
@@ -19,6 +19,6 @@
 >
 >_**Warranty**_
 
-## **For preview of the page, visit [My Website](https://playb.netlify.app)**
+### **For preview of the page, visit [My Website](https://playb.netlify.app)**
 ------
 ###### THIS DOCUMENT IS MADE WITH &copy;MARKDOWN.
