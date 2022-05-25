@@ -14,7 +14,7 @@ body, html {
 	left: 20%;
 	margin: 0;
 	padding: 0;
-	top: 0%;
+	top: 5%;
 }
 .app__menuBar .app__menuItem:nth-child(2) {
 	color: #F29900;
@@ -24,7 +24,7 @@ body, html {
 	left: 35%;
 	margin: 0;
 	padding: 0;
-	top: 0%;
+	top: 5%;
 }
 .app__menuBar .app__menuItem:last-child {
 	color: #F29900;
@@ -34,5 +34,5 @@ body, html {
 	left: 50%;
 	margin: 0;
 	padding: 0;
-	top: 0%;
+	top: 5%;
 }
