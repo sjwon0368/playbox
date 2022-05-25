@@ -36,13 +36,3 @@ body, html {
 	padding: 0;
 	top: 5%;
 }
-.app__menuBar .app__menuItem:last-child {
-	color: #F29900;
-	text-decration: none;
-	font-weight: bold;
-	position: absolute;
-	left: 65%;
-	margin: 0;
-	padding: 0;
-	top: 5%;
-}
