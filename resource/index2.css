@@ -3,7 +3,7 @@ body, html {
 	height: 100%;
 	margin: 0;
 	padding: 0;
-	background: #FFFFFF;
+	background: #000000;
 	font-family: sans-serif;
 }
 .app__menuBar .app__menuItem:first-child {
