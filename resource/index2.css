@@ -26,12 +26,22 @@ body, html {
 	padding: 0;
 	top: 5%;
 }
-.app__menuBar .app__menuItem:last-child {
+.app__menuBar .app__menuItem:nth-child(3) {
 	color: #F29900;
 	text-decoration: none;
 	font-weight: bold;
 	position: absolute;
 	left: 50%;
+	margin: 0;
+	padding: 0;
+	top: 5%;
+}
+.app__menuBar .app__menuItem:last-child {
+	color: #F29900;
+	text-decration: none;
+	font-weight: bold;
+	position: absolute;
+	left: 65%;
 	margin: 0;
 	padding: 0;
 	top: 5%;
