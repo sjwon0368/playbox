@@ -53,3 +53,17 @@ body, html {
 	background: #000000;
 	color: #F29900;
 }
+.app__infoItem {
+	color: #F29900;
+	font-weight: bold;
+	font-size: normal;
+	text-align: center;
+	background: lightgray;
+	border-radius: 5px;
+}
+.app__infoTitle {
+	text-align: left;
+	font-size: large;
+	font-weight: bold;
+	color: #F29900;
+}
