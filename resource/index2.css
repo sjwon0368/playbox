@@ -62,6 +62,7 @@ body, html {
 	border-radius: 5px;
 	height: 50px;
 	width: 90%;
+	margin: 5px;
 }
 .app__infoTitle {
 	text-align: left;
