@@ -42,7 +42,7 @@ body, html {
 	position: absolute;
 }
 .app__infoBox {
-	width: 100%;
+	width: 99%;
 	height: 35%;
 	position: absolute;
 	margin: 0;
@@ -57,12 +57,10 @@ body, html {
 	color: #F29900;
 	font-weight: bold;
 	font-size: normal;
-	text-align: center;
+	text-align: left;
 	background: lightgray;
 	border-radius: 5px;
-	height: 50px;
 	width: 90%;
-	margin: 5px;
 }
 .app__infoTitle {
 	text-align: left;
