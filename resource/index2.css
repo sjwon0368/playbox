@@ -41,3 +41,10 @@ body, html {
 	height: 60%;
 	position: absolute;
 }
+.app__infoBox {
+	width: 90%;
+	height: 35%;
+	position: absolute;
+	margin: 0;
+	padding: 0;
+}
