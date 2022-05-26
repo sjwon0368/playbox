@@ -60,10 +60,12 @@ body, html {
 	text-align: center;
 	background: lightgray;
 	border-radius: 5px;
+	height: 20px;
+	width: 90%;
 }
 .app__infoTitle {
 	text-align: left;
-	font-size: large;
+	font-size: x-large;
 	font-weight: bold;
 	color: #F29900;
 }
