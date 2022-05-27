@@ -19,6 +19,6 @@
 >
 >_**Warranty**_
 
-### **For preview of the page, visit [My Website](https://playb.netlify.app)**
+### **For preview of the page, visit [My Website](https://playb.netlify.app).**
 ------
 ###### THIS DOCUMENT IS MADE WITH &copy;MARKDOWN.
