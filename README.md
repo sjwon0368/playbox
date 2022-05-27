@@ -11,14 +11,14 @@
 >
 >_**Patent use**_
 >
->_**Private use**_
->
 > ### Not allowed actions for this repo:
 >
 >_**Liability**_
 >
 >_**Warranty**_
+>
+>_**Private use**_
 
 ### **For preview of the page, visit [My Website](https://playb.netlify.app).**
 ------
-###### THIS DOCUMENT IS MADE WITH &copy;MARKDOWN.
+###### THIS DOCUMENT IS MADE WITH &copy;MARKDOWN
