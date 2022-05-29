@@ -1,5 +1,5 @@
 # Github Repository Info
-###### **Licensed under [GPL-3.0](https://github.com/sjwon0368/playbox/blob/main/LICENSE).**
+###### **Licensed under [GPL-3.0](https://github.com/sjwon0368/playbox/blob/main/License).**
 ------
 > ### Allowed actions for this repo:
 >
